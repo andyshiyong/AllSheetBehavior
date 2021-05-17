@@ -9,7 +9,7 @@ allprojects {
   
 # Step 2. Add the dependency
 dependencies {
-	        implementation 'com.github.andyshiyong:AllSheetBehavior:Tag'
+	       implementation 'com.github.andyshiyong:AllSheetBehavior:1.0'
 	}
   
 # Step 3. 开始使用
