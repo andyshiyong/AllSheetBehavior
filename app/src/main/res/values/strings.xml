@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SheetBehavior</string>
+    <dimen name="dp_100">100dp</dimen>
+</resources>

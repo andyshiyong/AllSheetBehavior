@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="sheet_style">
+        <item name="sheet_behavior_hiddenEnable">true</item>
+        <item name="layout_behavior">@string/layout_behavior</item>
+        <item name="sheet_behavior_peekHeight">0dp</item>
+        <item name="sheet_behavior_slideMode">left</item>
+    </style>
+    <!-- 透明主题，全屏-->
+    <style name="Translucent" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowFullscreen">false</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+</resources>

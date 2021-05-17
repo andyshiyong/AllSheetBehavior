@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SheetBehavior</string>
+    <string name="layout_behavior">com.shiyong.sheetbehavior.AllSheetBehavior</string>
+</resources>
